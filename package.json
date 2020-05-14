@@ -1,0 +1,29 @@
+{
+  "name": "md-loader",
+  "version": "1.0.0",
+  "description": "markdown loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "marked": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^26.0.1",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjeejj/md-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjeejj/md-loader/issues"
+  },
+  "homepage": "https://github.com/jjeejj/md-loader#readme"
+}
